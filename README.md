@@ -13,7 +13,17 @@
 |[🏦 은행 창구 매니저](https://github.com/zhilly11/ios-bank-manager)|10-31 ~ 11-11 (2 weeks)|[`STEP 1`](https://github.com/yagom-academy/ios-bank-manager/pull/221) [`STEP 2`](https://github.com/yagom-academy/ios-bank-manager/pull/238) [`STEP 3`](https://github.com/yagom-academy/ios-bank-manager/pull/250) |[미니](https://github.com/leegyoungmin)| [토니](https://github.com/Monsteel)
 |[🛒 오픈 마켓](https://github.com/zhilly11/ios-open-market)|11-14 ~ 12-09 (4 weeks)|[`STEP 1`](https://github.com/yagom-academy/ios-open-market/pull/209) [`STEP 2`](https://github.com/yagom-academy/ios-open-market/pull/225) [`STEP 3`](https://github.com/yagom-academy/ios-open-market/pull/240) | [드래곤](https://github.com/DrageunKim)| [하비](https://github.com/havilog)
 |[📔 일기장](https://github.com/zhilly11/ios-diary)|12-19 ~ 01-06 (3 weeks)|[`STEP 1`](https://github.com/yagom-academy/ios-diary/pull/66) [`STEP 2`](https://github.com/yagom-academy/ios-diary/pull/72) |[아얀](https://github.com/oneStar92)| [하비](https://github.com/havilog)
-|[🗂 프로젝트 매니저](https://github.com/zhilly11/ios-project-manager)|01-09 ~ 01-27 (3 weeks)|[`STEP 1`](https://github.com/yagom-academy/ios-project-manager/pull/233) [`STEP 2`](https://github.com/yagom-academy/ios-project-manager/pull/250) [`STEP 3-1`](https://github.com/yagom-academy/ios-project-manager/pull/259) | | [라이언](https://github.com/ryan-son)
+|[🗂 프로젝트 매니저](https://github.com/zhilly11/ios-project-manager)|01-09 ~ 01-27 (3 weeks)|[`STEP 1`](https://github.com/yagom-academy/ios-project-manager/pull/233) [`STEP 2`](https://github.com/yagom-academy/ios-project-manager/pull/250) [`STEP 3-1`](https://github.com/yagom-academy/ios-project-manager/pull/259) | | [라이언](https://github.com/ryan-son) |
+
+<br>
+
+### 💻 Project with Wanted
+
+| Project | Term | Team |
+| -------- | -------- | -------- |
+| [📊 자이로 측정기](https://github.com/zhilly11/ios-wanted-GyroData) | 01-30 ~ 02-05 (1 weeks) | [웅](https://github.com/iOS-Woong) |
+
+<br>
 
 # Reviewer 활동
 
